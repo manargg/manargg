@@ -48,8 +48,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/manargg/manargg/output/snake.svg" alt="Snake animation" />
-
-###
