@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋 I'm Manar Mustafa Abuhait</h2>
-<h4 align="left">Frontend Developer | Software Engineering Graduate | Building Modern Web Apps</h4>
+<h4 align="left">Frontend Developer | Building Modern Web Apps</h4>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
@@ -33,8 +33,23 @@
 
 ### 📫 Connect With Me  
 <div align="left">
-  <a href="mailto:abuhaitmanar@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/manar-abuhait/">
-    <img
+
+  <a href="https://www.linkedin.com/in/manar-abuhait/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://discord.com/users/manargg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/manargg/manargg/output/snake.svg" alt="Snake animation" />
+
+###
