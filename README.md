@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋 I'm Manar Mustafa Abuhait</h2>
 <h4 align="left">Frontend Developer | Building Modern Web Apps</h4>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ### 🌱 About Me  
 - 🎓 Software Engineering graduate  
